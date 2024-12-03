@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Yannis ! A junior full stack web developer** 😊
 <!--
 **yannisgsp/yannisgsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
