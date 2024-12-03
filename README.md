@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Yannis, a french junior full stack web developer 😊
+## I'm Yannis, a french junior full stack developer 😊
 
 ⚙️ I use : ruby, ruby on rails, javascript, html, css <br/>
 👨🏽‍💻 I'm learning : java <br/>
