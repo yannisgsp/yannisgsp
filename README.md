@@ -2,7 +2,7 @@
 
 ## I'm Yannis, a french junior full stack web developer 😊
 
-⚙️ I use : ruby, ruby on rails, javascript, html, css
+⚙️ I use : ruby, ruby on rails, javascript, html, css //
 👨🏽‍💻 I'm learning : java
 🚃 I'm graduated from Le Wagon bootcamp 
 🔍 I'm currently looking for apprenticeship as a Java developer 
