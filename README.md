@@ -2,8 +2,8 @@
 
 ## I'm Yannis, a french junior full stack web developer 😊
 
-⚙️ I use : ruby, ruby on rails, javascript, html, css //
-👨🏽‍💻 I'm learning : java
-🚃 I'm graduated from Le Wagon bootcamp 
-🔍 I'm currently looking for apprenticeship as a Java developer 
+⚙️ I use : ruby, ruby on rails, javascript, html, css <br/>
+👨🏽‍💻 I'm learning : java <br/>
+🚃 I'm graduated from Le Wagon bootcamp <br/>
+🔍 I'm currently looking for apprenticeship as a Java developer <br/>
 💬 Feel free to reach out on [linkedin](https://www.linkedin.com/in/yannis-gaspard-38035b100/)
